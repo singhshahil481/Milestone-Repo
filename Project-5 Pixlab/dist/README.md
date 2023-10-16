@@ -20,7 +20,7 @@ This project is created during the milestone exam-1 conducted by the PW Skill's 
 
 To run this project locally, follow these steps:
 
-- Clone the repository: git clone https://github.com/Pawanyadav963/Milestone-Repo
+- Clone the repository: git clone https://github.com/singhshahil481/Milestone-Repo
 - Navigate to the project folder: cd your-repo
 - Open the index.html file in your web browser.
 
