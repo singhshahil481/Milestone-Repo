@@ -23,7 +23,7 @@
 
 /* header design */
 header {
-    background: url('./background.png') no-repeat center center;
+    background: url('./Assests/background.png') no-repeat center center;
     background-size: cover;
     height: 100vh;
     /* test on it after comp.*/
